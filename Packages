@@ -2984,13 +2984,13 @@ Description: Slide to unlock for iOS 11 and 12.
 Name: Slyd (SlideToUnlock)
 Author: Nepeta
 
-Package: me.nepeta.slyd
-Architecture: iphoneos-arm
+Package: com.c00lkiDDBluedudd.slydreimagined
+Architecture: iphoneos-arm64
 Version: 0.2.4
 Section: Tweaks
 Maintainer: Nepeta
 Installed-Size: 308
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Depends: preferenceloader, ellekit (>= 1.11), firmware (<= 16.0)
 Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
 Filename: ./debians/me.nepeta.slyd_0.2.4_iphoneos-arm.deb
 Size: 18432
