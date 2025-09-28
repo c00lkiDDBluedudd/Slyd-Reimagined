@@ -4,5 +4,5 @@ Description: Mirror of Nepeta's Repository. Supports Cydia and Zebra. (MIRROR)
 Label: Nepeta (MIRROR)
 Origin: Nepeta (MIRROR)
 Suite: stable
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64
 Version: 1.0
